@@ -140,3 +140,10 @@ express
   // requires permission to reach this point
   .delete("/:id", this.deleteById);
 ```
+
+
+** EXTRA NOTES **
+To Get Access Token:
+SPIN UP SERVER => LOG IN CHROME
+Open Network tab in Chrome => token => access_token => "copy value"
+Postman: AUTH tab => Bearer Token => Token Value
