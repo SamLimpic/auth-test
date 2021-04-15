@@ -147,3 +147,6 @@ To Get Access Token:
 SPIN UP SERVER => LOG IN CHROME
 Open Network tab in Chrome => token => access_token => "copy value"
 Postman: AUTH tab => Bearer Token => Token Value
+
+GitHub Branches:
+To retrieve Main branch => git pull origin main
